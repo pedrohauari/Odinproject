@@ -1,0 +1,38 @@
+* { 
+    box-sizing: border-box;
+    margin: 0;
+}
+html, body, header { 
+    height: 100%;
+}
+
+button { 
+    background-color: #3882f6;
+}
+header { 
+    background-color: #1F2937;
+}
+footer { 
+    background-color: #1F2937;
+}
+h1 { 
+    font-size: 48px; 
+    color: #F9FAF8;
+}
+p { 
+    font-size: 24px; 
+    color: #f9FAF8; 
+}
+main { 
+    background-color: #1F2937;
+}
+a { 
+    font-size: 18px; 
+    color: #E5E7EB;
+    margin-right: 20px;
+}
+#logo { 
+    font-size: 24px;
+    color: #F9FAF8;
+
+}
